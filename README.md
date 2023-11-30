@@ -1,1 +1,1 @@
-# Data-Structures in TypeScript Part 1
+# Data Structures in TypeScript Part 1
